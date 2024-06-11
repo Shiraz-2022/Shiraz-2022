@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Shiraz Yousuf, a passionate software developer from Kerala. Welcome to my GitHub profile!
+I'm Shiraz Yousuf, a passionate software developer from Kerala.
 
 ## About Me ℹ️
 
