@@ -63,7 +63,7 @@
 ## 🌐 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiraz-yousuf-530832233/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?style=flat&logo=netlify&logoColor=white)](https://shiraz-portfolio2.netlify.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?style=flat&logo=netlify&logoColor=white)](https://shirazyousuf.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/shiraz-yousuf)  
 
 ---
