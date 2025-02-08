@@ -5,7 +5,6 @@
 
 ## 📝 **About Me**  
 ✨ I’m a creative and driven developer who loves coding, learning, and building impactful solutions. With a solid foundation in **Web and App Development**, I’m constantly exploring and implementing cutting-edge technologies to make life easier.  
-💡 I believe in the transformative power of **Open Source** and **Collaboration** to push the boundaries of innovation.
 
 ---
 
